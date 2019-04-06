@@ -1,2 +1,2 @@
 # vart3227
-It is the source code repository for the course, Evolutionary Graphics from the Academy of Visual Arts, HKBU. The course employs the software, Context Free Art and TouchDesigner for teaching.
+It is the source code repository for the course, [Evolutionary Graphics](https://vart3227.wordpress.com/) from the [Academy of Visual Arts](http://ava.hkbu.edu.hk), HKBU. The course employs the software, [Context Free Art](https://www.contextfreeart.org/) and [TouchDesigner](http://derivative.ca/) for teaching. The folders include exercises for particle system and audio visualisation with TouchDesigner.
